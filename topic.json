@@ -1,0 +1,89 @@
+{
+    "course": {
+        "id": "156",
+        "name": "NG-Essentials-Academic Activities in Campus",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "This is NG Essentials-Academic Activities in Campus",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4355",
+                "parent_exercise_id": null,
+                "course_id": "156",
+                "name": "Academic Circle Or Learning Circle",
+                "slug": "NG-Essentials-Academic-Activities-in-Campus__Academic_Circle_Or_Learning_Circle_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/NG-Essentials-Academic-Activities-in-Campus/Academic_Circle_Or_Learning_Circle.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Academic Circle or Learning Circle\n\nThis is a very important circle or meeting in which all the students gather/sit together in a circle to discuss the following:- \n\n- Tell about their current topic and their **future agenda** and their **new learning** in the previous week.\n\n- TNP\u2019s conduct this circle and they also ask some questions to the students on their respective topics.\n\n- Needs of students that need to be worked for the next week.\n\n- The **academic circle** is conducted once every week, but it can also be conducted twice a week depending on the need of academics.\n\n- **TNP\u2019s** update the progress tracker sheet for every student and also in the dashboard.\n\n- Student\u2019s current milestones will be updated on the progress tracker sheets.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4357",
+                "parent_exercise_id": null,
+                "course_id": "156",
+                "name": "Coach-Mentor-Mentee Meetings",
+                "slug": "NG-Essentials-Academic-Activities-in-Campus__Coach_Mentor_Mentee_Meetings_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/NG-Essentials-Academic-Activities-in-Campus/Coach_Mentor_Mentee_Meetings.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Coach Meetings:-\n\nCoaches meetings are scheduled on a weekly basis to discuss the following:-\n\n- Whether they are taking the classes on time or not. \n\n- To know about the problems faced by the Coaches.\n\n- Each student\u2019s milestones.\n\n- Who is good in their group with a name and why?\n\n- Who is struggling or needs more support?\n\n- How are the classes happening?\n\n- Documentation of the classes conducted should be done by Coaches only.\n\n- All coaches have to Schedule their classes on academic calendars.\n\n- Which activities we can do in the upcoming week?\n\n\n\nMentor Meetings:-\n\nMentor meetings are also scheduled on a weekly basis to know and discuss the following:-\n\n- What problems are being faced by mentors regarding their mentees?\n\n- Struggling point and strength of mentees.\n\n- How much time do they spend guiding their mentees.\n\n- The behavior of their mentees.\n\n- Ensure that mentees are coming for regular standups.\n\n- Ensure whether they are taking interviews and filling the progress tracker sheet daily.\n\n\n\nMentee Meetings:-\n\nMentee meetings are also conducted depending on the requirement. In this meeting, we discuss the following:-\n\n- Academic issues of the mentees. \n\n- Behavior of their mentor.\n\n- Time given by the mentor to the mentees.\n\n- How does their mentor support them?\n\n- Discuss whether their mentors take the interview and fill progress tracker sheet on a weekly basis.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4358",
+                "parent_exercise_id": null,
+                "course_id": "156",
+                "name": "Hackathons",
+                "slug": "NG-Essentials-Academic-Activities-in-Campus__Hackathons_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/NG-Essentials-Academic-Activities-in-Campus/Hackathons.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Hackathons\n\n- **Hackathons** are conducted on two alternate Saturdays every month.\n\n- During the **Hackathons**, we ask the students to make apps or we can also give topic completion. \n\n- We also select winners when the topic is app creation, the selection panel is from outside. \n\n- The **Hackathons** speed up the learning process and enhance the students' logical thinking abilities.\n\n- There Will be 4 Hackathons Compulsory.\n   - Two Hackathons with all.\n   - Two Hackathons personal for your own progress on current topics.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4356",
+                "parent_exercise_id": null,
+                "course_id": "156",
+                "name": "Tech-Fest",
+                "slug": "NG-Essentials-Academic-Activities-in-Campus__Tech_Fest_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/NG-Essentials-Academic-Activities-in-Campus/Tech_Fest.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Tech-Fest\n\n- **Tech Fest** is a refreshing activity for all the students across all the campuses. \n\n- It will be organized on Saturdays, twice a year where some educational activities will be conducted for enjoyment and for appreciation of those who are doing well in academics. \n\n- Some games, fun activities will also be there. **Best Coaches**, **Best Mentors** and **`Code`r of the Month** will also be awarded during the **Tech-Fest**.\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}
